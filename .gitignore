@@ -9,3 +9,4 @@ cerulean.db*
 *.csv
 .gitignore
 etc
+lib64
