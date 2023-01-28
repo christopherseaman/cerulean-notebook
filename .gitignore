@@ -4,3 +4,4 @@ share/
 include/
 pyvenv.cfg
 .env
+.DS_Store
