@@ -1,6 +1,5 @@
 
 export $(xargs < .env)
-cd ..
 
 # [Deidentified Medical Text](https://physionet.org/content/deidentifiedmedicaltext/1.0/)
 wget -r -N -c -np --user ${PHYSIONET_USERNAME} --password ${PHYSIONET_PASSWORD} https://physionet.org/files/deidentifiedmedicaltext/1.0/
