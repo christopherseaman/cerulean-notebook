@@ -7,9 +7,9 @@ share/
 pyvenv.cfg
 .env
 .DS_Store
-.tmp
+.tmp/
+out/
 cerulean.db*
-*.csv
 *.csv.gz
 .gitignore
 physionet.org
