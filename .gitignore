@@ -9,7 +9,7 @@ pyvenv.cfg
 .DS_Store
 .tmp/
 out/
-cerulean.db*
+cerulean.duckdb*
 *.csv.gz
 .gitignore
 physionet.org
