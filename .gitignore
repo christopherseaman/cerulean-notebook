@@ -13,3 +13,4 @@ cerulean.duckdb*
 *.csv.gz
 .gitignore
 physionet.org
+venv/

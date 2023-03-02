@@ -6,3 +6,4 @@ jupysql
 pandas
 matplotlib
 notebook
+python-dotenv
