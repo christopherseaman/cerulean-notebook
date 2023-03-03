@@ -1,9 +1,7 @@
 azure-ai-textanalytics==5.2.0
 python-dotenv
-duckdb
-duckdb-engine
-jupysql
-pandas
-matplotlib
-notebook
-python-dotenv
+duckdb==0.7.1
+duckdb-engine==0.6.9
+jupysql==0.6.1
+pandas==1.4.3
+openai
