@@ -14,3 +14,4 @@ cerulean.duckdb*
 .gitignore
 physionet.org
 venv/
+cerulean.db*
