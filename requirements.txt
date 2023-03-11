@@ -3,8 +3,6 @@ pandas
 matplotlib
 jupyterlab
 jupysql
-wheel
-pyzmq==19.0.2
 duckdb
 duckdb-engine
 openai
