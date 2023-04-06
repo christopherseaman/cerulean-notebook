@@ -7,3 +7,6 @@ duckdb
 duckdb-engine
 openai
 azure-ai-textanalytics
+
+pyarrow
+fastparquet
